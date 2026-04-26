@@ -1,0 +1,71 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    cursor: url(/img/tumblr_759ff0dc3c412fb21d2c1250cd204ea4_02fb156e_1280.png), auto;
+
+}
+
+header {
+    border: solid black;
+    margin-bottom: 12px;
+    text-align: center;
+
+}
+
+main {}
+
+div {
+    border: solid black;
+    margin-block: 12px;
+    margin-inline: 12%;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: solid black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 600;
+    margin: 12px;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 12px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 12px;
+}
+
+p {
+    font-size: 18px;
+    margin: 6px;
+}
+
+
+ul {
+    margin: 12px;
+}
+
+li {
+    display: inline-flex;
+    font-size: 18px;
+    margin: 6px;
+}
+
